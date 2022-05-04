@@ -1,1 +1,1 @@
-# Java-Logical-Programming-
+# JavaLogicalProgramming
